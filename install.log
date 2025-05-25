@@ -1,0 +1,819 @@
+=== Verbose logging started: 25.05.2025  15:28:09  Build type: SHIP UNICODE 5.00.10011.00  Calling process: C:\Windows\system32\msiexec.exe ===
+MSI (c) (AC:70) [15:28:09:323]: Font created.  Charset: Req=204, Ret=204, Font: Req=MS Shell Dlg, Ret=Arial
+
+MSI (c) (AC:70) [15:28:09:323]: Font created.  Charset: Req=204, Ret=204, Font: Req=MS Shell Dlg, Ret=Arial
+
+MSI (c) (AC:EC) [15:28:09:441]: Resetting cached policy values
+MSI (c) (AC:EC) [15:28:09:448]: Machine policy value 'Debug' is 0
+MSI (c) (AC:EC) [15:28:09:448]: ******* RunEngine:
+           ******* Product: C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+           ******* Action: 
+           ******* CommandLine: **********
+MSI (c) (AC:EC) [15:28:09:450]: Machine policy value 'DisableUserInstalls' is 0
+MSI (c) (AC:70) [15:28:09:450]: Font created.  Charset: Req=0, Ret=0, Font: Req=, Ret=Arial
+
+MSI (c) (AC:70) [15:28:09:472]: Font created.  Charset: Req=0, Ret=0, Font: Req=, Ret=Arial
+
+MSI (c) (AC:EC) [15:28:09:535]: Cloaking enabled.
+MSI (c) (AC:EC) [15:28:09:535]: Attempting to enable all disabled privileges before calling Install on Server
+MSI (c) (AC:EC) [15:28:09:545]: End dialog not enabled
+MSI (c) (AC:EC) [15:28:09:545]: Original package ==> C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+MSI (c) (AC:EC) [15:28:09:545]: Package we're running from ==> C:\Windows\Installer\12f249.msi
+MSI (c) (AC:EC) [15:28:09:545]: APPCOMPAT: Uninstall Flags override found.
+MSI (c) (AC:EC) [15:28:09:545]: APPCOMPAT: Uninstall VersionNT override found.
+MSI (c) (AC:EC) [15:28:09:545]: APPCOMPAT: Uninstall ServicePackLevel override found.
+MSI (c) (AC:EC) [15:28:09:561]: APPCOMPAT: looking for appcompat database entry with ProductCode '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'.
+MSI (c) (AC:EC) [15:28:09:561]: APPCOMPAT: no matching ProductCode found in database.
+MSI (c) (AC:EC) [15:28:09:834]: MSCOREE not loaded loading copy from system32
+MSI (c) (AC:EC) [15:28:09:889]: Machine policy value 'DisablePatch' is 0
+MSI (c) (AC:EC) [15:28:09:889]: Machine policy value 'AllowLockdownPatch' is 0
+MSI (c) (AC:EC) [15:28:09:889]: Machine policy value 'DisableLUAPatching' is 0
+MSI (c) (AC:EC) [15:28:09:889]: Machine policy value 'DisableFlyWeightPatching' is 0
+MSI (c) (AC:EC) [15:28:09:897]: APPCOMPAT: looking for appcompat database entry with ProductCode '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'.
+MSI (c) (AC:EC) [15:28:09:897]: APPCOMPAT: no matching ProductCode found in database.
+MSI (c) (AC:EC) [15:28:09:901]: Transforms are not secure.
+MSI (c) (AC:EC) [15:28:09:901]: PROPERTY CHANGE: Adding MsiLogFileLocation property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared\install.log'.
+MSI (c) (AC:EC) [15:28:09:901]: Command Line: CURRENTDIRECTORY=C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared CLIENTUILEVEL=0 CLIENTPROCESSID=1196 
+MSI (c) (AC:EC) [15:28:09:901]: PROPERTY CHANGE: Adding PackageCode property. Its value is '{5D09B3BA-C199-4368-80AB-7FB39A463415}'.
+MSI (c) (AC:EC) [15:28:09:901]: Product Code passed to Engine.Initialize:           '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'
+MSI (c) (AC:EC) [15:28:09:901]: Product Code from property table before transforms: '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'
+MSI (c) (AC:EC) [15:28:09:901]: Product Code from property table after transforms:  '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'
+MSI (c) (AC:EC) [15:28:09:901]: Product registered: entering maintenance mode
+MSI (c) (AC:EC) [15:28:09:901]: Determined that existing product (either this product or the product being upgraded with a patch) is installed per-user.
+MSI (c) (AC:EC) [15:28:09:901]: PROPERTY CHANGE: Adding ProductState property. Its value is '5'.
+MSI (c) (AC:EC) [15:28:09:901]: PROPERTY CHANGE: Adding ProductToBeRegistered property. Its value is '1'.
+MSI (c) (AC:EC) [15:28:09:901]: Entering CMsiConfigurationManager::SetLastUsedSource.
+MSI (c) (AC:EC) [15:28:09:909]: Specifed source is already in a list.
+MSI (c) (AC:EC) [15:28:09:909]: User policy value 'SearchOrder' is 'nmu'
+MSI (c) (AC:EC) [15:28:09:909]: Machine policy value 'DisableBrowse' is 0
+MSI (c) (AC:EC) [15:28:09:910]: Machine policy value 'AllowLockdownBrowse' is 0
+MSI (c) (AC:EC) [15:28:09:910]: Adding new sources is allowed.
+MSI (c) (AC:EC) [15:28:09:910]: Package name retrieved from configuration data: 'AdobePatch.msi'
+MSI (c) (AC:EC) [15:28:09:910]: Note: 1: 2205 2:  3: Error 
+MSI (c) (AC:EC) [15:28:09:925]: Note: 1: 2262 2: AdminProperties 3: -2147287038 
+MSI (c) (AC:EC) [15:28:09:925]: Machine policy value 'DisableMsi' is 0
+MSI (c) (AC:EC) [15:28:09:925]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (c) (AC:EC) [15:28:09:925]: User policy value 'AlwaysInstallElevated' is 0
+MSI (c) (AC:EC) [15:28:09:925]: Product {7E07C872-2DCE-4B16-942F-B067DF6ADA0F} is not managed.
+MSI (c) (AC:EC) [15:28:09:925]: Running product '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}' with user privileges: It's not assigned.
+MSI (c) (AC:EC) [15:28:09:925]: PROPERTY CHANGE: Adding CURRENTDIRECTORY property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared'.
+MSI (c) (AC:EC) [15:28:09:925]: PROPERTY CHANGE: Adding CLIENTUILEVEL property. Its value is '0'.
+MSI (c) (AC:EC) [15:28:09:925]: PROPERTY CHANGE: Adding CLIENTPROCESSID property. Its value is '1196'.
+MSI (c) (AC:EC) [15:28:09:925]: TRANSFORMS property is now: 
+MSI (c) (AC:EC) [15:28:09:925]: PROPERTY CHANGE: Adding PRODUCTLANGUAGE property. Its value is '1033'.
+MSI (c) (AC:EC) [15:28:09:925]: PROPERTY CHANGE: Adding VersionDatabase property. Its value is '400'.
+MSI (c) (AC:EC) [15:28:09:941]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming
+MSI (c) (AC:EC) [15:28:09:941]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Favorites
+MSI (c) (AC:EC) [15:28:09:953]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+MSI (c) (AC:EC) [15:28:09:955]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Documents
+MSI (c) (AC:EC) [15:28:09:957]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+MSI (c) (AC:EC) [15:28:09:960]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Recent
+MSI (c) (AC:EC) [15:28:09:962]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\SendTo
+MSI (c) (AC:EC) [15:28:09:965]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Templates
+MSI (c) (AC:EC) [15:28:09:975]: SHELL32::SHGetFolderPath returned: C:\ProgramData
+MSI (c) (AC:EC) [15:28:09:979]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Local
+MSI (c) (AC:EC) [15:28:09:981]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Pictures
+MSI (c) (AC:EC) [15:28:09:983]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (c) (AC:EC) [15:28:09:983]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (c) (AC:EC) [15:28:09:988]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+MSI (c) (AC:EC) [15:28:09:990]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu
+MSI (c) (AC:EC) [15:28:09:992]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Desktop
+MSI (c) (AC:EC) [15:28:09:996]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (c) (AC:EC) [15:28:09:998]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (c) (AC:EC) [15:28:09:998]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+MSI (c) (AC:EC) [15:28:10:000]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu
+MSI (c) (AC:EC) [15:28:10:003]: SHELL32::SHGetFolderPath returned: C:\Users\Public\Desktop
+MSI (c) (AC:EC) [15:28:10:008]: SHELL32::SHGetFolderPath returned: C:\Windows\Fonts
+MSI (c) (AC:EC) [15:28:10:018]: Note: 1: 2898 2: MS Sans Serif 3: Arial 4: 0 5: 19 
+MSI (c) (AC:EC) [15:28:10:207]: MSI_LUA: Setting MsiRunningElevated property to 1 because the install is already running elevated.
+MSI (c) (AC:EC) [15:28:10:207]: PROPERTY CHANGE: Adding MsiRunningElevated property. Its value is '1'.
+MSI (c) (AC:EC) [15:28:10:207]: PROPERTY CHANGE: Adding Privileged property. Its value is '1'.
+MSI (c) (AC:EC) [15:28:10:207]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2 
+MSI (c) (AC:EC) [15:28:10:207]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2 
+MSI (c) (AC:EC) [15:28:10:207]: PROPERTY CHANGE: Adding Installed property. Its value is '00:00:00'.
+MSI (c) (AC:EC) [15:28:10:207]: PROPERTY CHANGE: Adding DATABASE property. Its value is 'C:\Windows\Installer\12f249.msi'.
+MSI (c) (AC:EC) [15:28:10:207]: PROPERTY CHANGE: Adding OriginalDatabase property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi'.
+MSI (c) (AC:EC) [15:28:10:207]: Machine policy value 'MsiDisableEmbeddedUI' is 0
+MSI (c) (AC:70) [15:28:10:222]: PROPERTY CHANGE: Adding VersionHandler property. Its value is '5.00'.
+MSI (c) (AC:70) [15:28:10:222]: Note: 1: 2205 2:  3: UIText 
+=== Logging started: 25.05.2025  15:28:10 ===
+MSI (c) (AC:EC) [15:28:10:428]: Note: 1: 2205 2:  3: PatchPackage 
+MSI (c) (AC:EC) [15:28:10:428]: Machine policy value 'DisableRollback' is 0
+MSI (c) (AC:EC) [15:28:10:428]: User policy value 'DisableRollback' is 0
+MSI (c) (AC:EC) [15:28:10:428]: PROPERTY CHANGE: Adding UILevel property. Its value is '5'.
+MSI (c) (AC:EC) [15:28:10:449]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (c) (AC:EC) [15:28:10:451]: APPCOMPAT: [DetectVersionLaunchCondition] Launch condition already passes.
+MSI (c) (AC:EC) [15:28:10:531]: PROPERTY CHANGE: Adding ACTION property. Its value is 'INSTALL'.
+MSI (c) (AC:EC) [15:28:10:531]: Doing action: INSTALL
+MSI (c) (AC:EC) [15:28:10:531]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: INSTALL. 
+Action start 15:28:10: INSTALL.
+MSI (c) (AC:EC) [15:28:10:537]: UI Sequence table 'InstallUISequence' is present and populated.
+MSI (c) (AC:EC) [15:28:10:537]: Running UISequence
+MSI (c) (AC:EC) [15:28:10:537]: PROPERTY CHANGE: Adding EXECUTEACTION property. Its value is 'INSTALL'.
+MSI (c) (AC:EC) [15:28:10:537]: Doing action: LaunchConditions
+MSI (c) (AC:EC) [15:28:10:537]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: LaunchConditions. Evaluating launch conditions
+Action start 15:28:10: LaunchConditions.
+Action ended 15:28:10: LaunchConditions. Return value 1.
+MSI (c) (AC:EC) [15:28:10:549]: Doing action: ValidateProductID
+MSI (c) (AC:EC) [15:28:10:549]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: ValidateProductID. 
+Action start 15:28:10: ValidateProductID.
+Action ended 15:28:10: ValidateProductID. Return value 1.
+MSI (c) (AC:EC) [15:28:10:555]: Doing action: CostInitialize
+MSI (c) (AC:EC) [15:28:10:555]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: CostInitialize. Computing space requirements
+Action start 15:28:10: CostInitialize.
+MSI (c) (AC:EC) [15:28:10:563]: Machine policy value 'MaxPatchCacheSize' is 10
+MSI (c) (AC:EC) [15:28:10:572]: PROPERTY CHANGE: Adding ROOTDRIVE property. Its value is 'C:\'.
+MSI (c) (AC:EC) [15:28:10:572]: PROPERTY CHANGE: Adding CostingComplete property. Its value is '0'.
+Action ended 15:28:10: CostInitialize. Return value 1.
+MSI (c) (AC:EC) [15:28:10:580]: Doing action: FileCost
+MSI (c) (AC:EC) [15:28:10:580]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: FileCost. Computing space requirements
+Action start 15:28:10: FileCost.
+MSI (c) (AC:EC) [15:28:10:590]: Note: 1: 2205 2:  3: MsiAssembly 
+MSI (c) (AC:EC) [15:28:10:590]: Note: 1: 2205 2:  3: Registry 
+MSI (c) (AC:EC) [15:28:10:590]: Note: 1: 2205 2:  3: Registry 
+MSI (c) (AC:EC) [15:28:10:590]: Note: 1: 2205 2:  3: Class 
+MSI (c) (AC:EC) [15:28:10:590]: Note: 1: 2205 2:  3: Extension 
+MSI (c) (AC:EC) [15:28:10:590]: Note: 1: 2205 2:  3: TypeLib 
+Action ended 15:28:10: FileCost. Return value 1.
+MSI (c) (AC:EC) [15:28:10:592]: Doing action: CostFinalize
+MSI (c) (AC:EC) [15:28:10:592]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: CostFinalize. Computing space requirements
+Action start 15:28:10: CostFinalize.
+MSI (c) (AC:EC) [15:28:10:602]: PROPERTY CHANGE: Adding OutOfDiskSpace property. Its value is '0'.
+MSI (c) (AC:EC) [15:28:10:602]: PROPERTY CHANGE: Adding OutOfNoRbDiskSpace property. Its value is '0'.
+MSI (c) (AC:EC) [15:28:10:602]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceAvailable property. Its value is '0'.
+MSI (c) (AC:EC) [15:28:10:602]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRequired property. Its value is '0'.
+MSI (c) (AC:EC) [15:28:10:602]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRemaining property. Its value is '0'.
+MSI (c) (AC:EC) [15:28:10:606]: Note: 1: 2205 2:  3: MsiAssembly 
+MSI (c) (AC:EC) [15:28:10:606]: Note: 1: 2228 2:  3: MsiAssembly 4:  SELECT `MsiAssembly`.`Attributes`, `MsiAssembly`.`File_Application`, `MsiAssembly`.`File_Manifest`,  `Component`.`KeyPath` FROM `MsiAssembly`, `Component` WHERE  `MsiAssembly`.`Component_` = `Component`.`Component` AND `MsiAssembly`.`Component_` = ? 
+MSI (c) (AC:EC) [15:28:10:606]: PROPERTY CHANGE: Adding VedistDir property. Its value is 'C:\ProgramData\Vedist'.
+MSI (c) (AC:EC) [15:28:10:606]: Note: 1: 2205 2:  3: Patch 
+MSI (c) (AC:EC) [15:28:10:606]: Note: 1: 2205 2:  3: Condition 
+MSI (c) (AC:EC) [15:28:10:616]: PROPERTY CHANGE: Adding TARGETDIR property. Its value is 'C:\'.
+MSI (c) (AC:EC) [15:28:10:616]: PROPERTY CHANGE: Modifying VedistDir property. Its current value is 'C:\ProgramData\Vedist'. Its new value: 'C:\ProgramData\Vedist\'.
+MSI (c) (AC:EC) [15:28:10:616]: Target path resolution complete. Dumping Directory table...
+MSI (c) (AC:EC) [15:28:10:616]: Note: target paths subject to change (via custom actions or browsing)
+MSI (c) (AC:EC) [15:28:10:616]: Dir (target): Key: TARGETDIR	, Object: C:\
+MSI (c) (AC:EC) [15:28:10:616]: Dir (target): Key: CommonAppDataFolder	, Object: C:\ProgramData\
+MSI (c) (AC:EC) [15:28:10:616]: Dir (target): Key: VedistDir	, Object: C:\ProgramData\Vedist\
+MSI (c) (AC:EC) [15:28:10:616]: PROPERTY CHANGE: Adding INSTALLLEVEL property. Its value is '1'.
+Action ended 15:28:10: CostFinalize. Return value 1.
+MSI (c) (AC:EC) [15:28:10:620]: Doing action: PasswordDialog
+MSI (c) (AC:EC) [15:28:10:620]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:10: PasswordDialog. 
+Action start 15:28:10: PasswordDialog.
+MSI (c) (AC:70) [15:28:10:631]: Note: 1: 2205 2:  3: Error 
+MSI (c) (AC:70) [15:28:10:631]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 2898 
+Info 2898.For WixUI_Font_Normal textstyle, the system created a 'Tahoma' font, in 0 character set, of 16 pixels height.
+MSI (c) (AC:70) [15:28:10:648]: Note: 1: 2205 2:  3: Error 
+MSI (c) (AC:70) [15:28:10:648]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 2898 
+Info 2898.For WixUI_Font_Normal__UL textstyle, the system created a 'Tahoma' font, in 204 character set, of 16 pixels height.
+Action 15:28:10: PasswordDialog. Dialog created
+MSI (c) (AC:A0) [15:28:10:696]: PROPERTY CHANGE: Modifying CostingComplete property. Its current value is '0'. Its new value: '1'.
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: Registry 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: BindImage 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: ProgId 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: PublishComponent 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: SelfReg 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: Extension 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: Font 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: Shortcut 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: Class 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: Icon 
+MSI (c) (AC:A0) [15:28:10:696]: Note: 1: 2205 2:  3: TypeLib 
+MSI (c) (AC:A0) [15:28:10:711]: Note: 1: 2727 2:  
+MSI (c) (AC:70) [15:28:22:191]: PROPERTY CHANGE: Adding PASSWORD property. Its value is '**********'.
+Action ended 15:28:22: PasswordDialog. Return value 1.
+MSI (c) (AC:EC) [15:28:22:553]: Doing action: ProgressDlg
+MSI (c) (AC:EC) [15:28:22:553]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:22: ProgressDlg. 
+Action start 15:28:22: ProgressDlg.
+MSI (c) (AC:70) [15:28:22:712]: Note: 1: 2205 2:  3: Error 
+MSI (c) (AC:70) [15:28:22:712]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 2898 
+Info 2898.For WixUI_Font_Title textstyle, the system created a 'Tahoma' font, in 0 character set, of 30 pixels height.
+Action 15:28:22: ProgressDlg. Dialog created
+Action ended 15:28:22: ProgressDlg. Return value 1.
+MSI (c) (AC:EC) [15:28:22:917]: Doing action: ExecuteAction
+MSI (c) (AC:EC) [15:28:22:917]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:22: ExecuteAction. 
+Action start 15:28:22: ExecuteAction.
+MSI (c) (AC:EC) [15:28:22:933]: PROPERTY CHANGE: Adding SECONDSEQUENCE property. Its value is '1'.
+MSI (c) (AC:EC) [15:28:22:933]: Grabbed execution mutex.
+MSI (c) (AC:EC) [15:28:22:933]: Incrementing counter to disable shutdown. Counter after increment: 0
+MSI (c) (AC:EC) [15:28:22:933]: Switching to server: PASSWORD=********** TARGETDIR="C:\" CURRENTDIRECTORY="C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared" CLIENTUILEVEL="0" CLIENTPROCESSID="1196" PRODUCTLANGUAGE="1033" ACTION="INSTALL" EXECUTEACTION="INSTALL" ROOTDRIVE="C:\" INSTALLLEVEL="1" SECONDSEQUENCE="1"  _MSI_FEATURE_SELECTION=_NONE_ 
+MSI (s) (90:38) [15:28:23:004]: Running installation inside multi-package transaction C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+MSI (s) (90:38) [15:28:23:004]: Grabbed execution mutex.
+MSI (s) (90:AC) [15:28:23:012]: Resetting cached policy values
+MSI (s) (90:AC) [15:28:23:012]: Machine policy value 'Debug' is 0
+MSI (s) (90:AC) [15:28:23:012]: ******* RunEngine:
+           ******* Product: C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+           ******* Action: INSTALL
+           ******* CommandLine: **********
+MSI (s) (90:AC) [15:28:23:023]: Machine policy value 'DisableUserInstalls' is 0
+MSI (s) (90:AC) [15:28:23:031]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (90:AC) [15:28:23:035]: Machine policy value 'LimitSystemRestoreCheckpointing' is 0
+MSI (s) (90:AC) [15:28:23:035]: SRSetRestorePoint skipped for this transaction.
+MSI (s) (90:AC) [15:28:23:035]: MSCOREE not loaded loading copy from system32
+MSI (s) (90:AC) [15:28:23:078]: End dialog not enabled
+MSI (s) (90:AC) [15:28:23:078]: Original package ==> C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+MSI (s) (90:AC) [15:28:23:078]: Package we're running from ==> C:\Windows\Installer\12f249.msi
+MSI (s) (90:AC) [15:28:23:078]: APPCOMPAT: Uninstall Flags override found.
+MSI (s) (90:AC) [15:28:23:078]: APPCOMPAT: Uninstall VersionNT override found.
+MSI (s) (90:AC) [15:28:23:078]: APPCOMPAT: Uninstall ServicePackLevel override found.
+MSI (s) (90:AC) [15:28:23:078]: APPCOMPAT: looking for appcompat database entry with ProductCode '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'.
+MSI (s) (90:AC) [15:28:23:078]: APPCOMPAT: no matching ProductCode found in database.
+MSI (s) (90:AC) [15:28:23:373]: Machine policy value 'DisablePatch' is 0
+MSI (s) (90:AC) [15:28:23:373]: Machine policy value 'AllowLockdownPatch' is 0
+MSI (s) (90:AC) [15:28:23:373]: Machine policy value 'DisableLUAPatching' is 0
+MSI (s) (90:AC) [15:28:23:373]: Machine policy value 'DisableFlyWeightPatching' is 0
+MSI (s) (90:AC) [15:28:23:379]: APPCOMPAT: looking for appcompat database entry with ProductCode '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'.
+MSI (s) (90:AC) [15:28:23:379]: APPCOMPAT: no matching ProductCode found in database.
+MSI (s) (90:AC) [15:28:23:379]: Transforms are not secure.
+MSI (s) (90:AC) [15:28:23:379]: PROPERTY CHANGE: Adding MsiLogFileLocation property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared\install.log'.
+MSI (s) (90:AC) [15:28:23:379]: Command Line: PASSWORD=********** TARGETDIR=C:\ CURRENTDIRECTORY=C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared CLIENTUILEVEL=0 CLIENTPROCESSID=1196 PRODUCTLANGUAGE=1033 ACTION=INSTALL EXECUTEACTION=INSTALL ROOTDRIVE=C:\ INSTALLLEVEL=1 SECONDSEQUENCE=1 _MSI_FEATURE_SELECTION=_NONE_ ACTION=INSTALL 
+MSI (s) (90:AC) [15:28:23:379]: PROPERTY CHANGE: Adding PackageCode property. Its value is '{5D09B3BA-C199-4368-80AB-7FB39A463415}'.
+MSI (s) (90:AC) [15:28:23:379]: Product Code passed to Engine.Initialize:           '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'
+MSI (s) (90:AC) [15:28:23:379]: Product Code from property table before transforms: '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'
+MSI (s) (90:AC) [15:28:23:379]: Product Code from property table after transforms:  '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'
+MSI (s) (90:AC) [15:28:23:379]: Product registered: entering maintenance mode
+MSI (s) (90:AC) [15:28:23:379]: Determined that existing product (either this product or the product being upgraded with a patch) is installed per-user.
+MSI (s) (90:AC) [15:28:23:379]: Product {7E07C872-2DCE-4B16-942F-B067DF6ADA0F} is not managed.
+MSI (s) (90:AC) [15:28:23:379]: MSI_LUA: Credential prompt not required, user is an admin
+MSI (s) (90:AC) [15:28:23:379]: PROPERTY CHANGE: Adding ProductState property. Its value is '5'.
+MSI (s) (90:AC) [15:28:23:379]: PROPERTY CHANGE: Adding ProductToBeRegistered property. Its value is '1'.
+MSI (s) (90:AC) [15:28:23:379]: Entering CMsiConfigurationManager::SetLastUsedSource.
+MSI (s) (90:AC) [15:28:23:379]: Specifed source is already in a list.
+MSI (s) (90:AC) [15:28:23:389]: User policy value 'SearchOrder' is 'nmu'
+MSI (s) (90:AC) [15:28:23:389]: Machine policy value 'DisableBrowse' is 0
+MSI (s) (90:AC) [15:28:23:389]: Machine policy value 'AllowLockdownBrowse' is 0
+MSI (s) (90:AC) [15:28:23:389]: Adding new sources is allowed.
+MSI (s) (90:AC) [15:28:23:389]: Package name retrieved from configuration data: 'AdobePatch.msi'
+MSI (s) (90:AC) [15:28:23:389]: Note: 1: 2205 2:  3: Error 
+MSI (s) (90:AC) [15:28:23:393]: Note: 1: 2262 2: AdminProperties 3: -2147287038 
+MSI (s) (90:AC) [15:28:23:393]: Machine policy value 'DisableMsi' is 0
+MSI (s) (90:AC) [15:28:23:393]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (90:AC) [15:28:23:393]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (90:AC) [15:28:23:393]: Product {7E07C872-2DCE-4B16-942F-B067DF6ADA0F} is not managed.
+MSI (s) (90:AC) [15:28:23:393]: Running product '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}' with user privileges: It's not assigned.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding PASSWORD property. Its value is '**********'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding TARGETDIR property. Its value is 'C:\'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding CURRENTDIRECTORY property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding CLIENTUILEVEL property. Its value is '0'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding CLIENTPROCESSID property. Its value is '1196'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding PRODUCTLANGUAGE property. Its value is '1033'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding ACTION property. Its value is 'INSTALL'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding EXECUTEACTION property. Its value is 'INSTALL'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding ROOTDRIVE property. Its value is 'C:\'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding INSTALLLEVEL property. Its value is '1'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding SECONDSEQUENCE property. Its value is '1'.
+MSI (s) (90:AC) [15:28:23:393]: PROPERTY CHANGE: Adding _MSI_FEATURE_SELECTION property. Its value is '_NONE_'.
+MSI (s) (90:AC) [15:28:23:393]: Machine policy value 'DisableAutomaticApplicationShutdown' is 0
+MSI (s) (90:AC) [15:28:23:403]: PROPERTY CHANGE: Adding MsiRestartManagerSessionKey property. Its value is '0c184aef12d82340a24b9ffc2433cda2'.
+MSI (s) (90:AC) [15:28:23:403]: RESTART MANAGER: Session opened.
+MSI (s) (90:AC) [15:28:23:403]: Engine has iefSecondSequence set to true.
+MSI (s) (90:AC) [15:28:23:403]: TRANSFORMS property is now: 
+MSI (s) (90:AC) [15:28:23:403]: PROPERTY CHANGE: Adding VersionDatabase property. Its value is '400'.
+MSI (s) (90:AC) [15:28:23:417]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming
+MSI (s) (90:AC) [15:28:23:424]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Favorites
+MSI (s) (90:AC) [15:28:23:441]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+MSI (s) (90:AC) [15:28:23:441]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Documents
+MSI (s) (90:AC) [15:28:23:455]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+MSI (s) (90:AC) [15:28:23:469]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Recent
+MSI (s) (90:AC) [15:28:23:472]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\SendTo
+MSI (s) (90:AC) [15:28:23:492]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Templates
+MSI (s) (90:AC) [15:28:23:492]: SHELL32::SHGetFolderPath returned: C:\ProgramData
+MSI (s) (90:AC) [15:28:23:497]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Local
+MSI (s) (90:AC) [15:28:23:506]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Pictures
+MSI (s) (90:AC) [15:28:23:534]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (s) (90:AC) [15:28:23:541]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (s) (90:AC) [15:28:23:555]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+MSI (s) (90:AC) [15:28:23:566]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu
+MSI (s) (90:AC) [15:28:23:578]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\Desktop
+MSI (s) (90:AC) [15:28:23:599]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (s) (90:AC) [15:28:23:605]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (s) (90:AC) [15:28:23:617]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+MSI (s) (90:AC) [15:28:23:628]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu
+MSI (s) (90:AC) [15:28:23:640]: SHELL32::SHGetFolderPath returned: C:\Users\Public\Desktop
+MSI (s) (90:AC) [15:28:23:642]: SHELL32::SHGetFolderPath returned: C:\Windows\Fonts
+MSI (s) (90:AC) [15:28:23:642]: Note: 1: 2898 2: MS Sans Serif 3: Arial 4: 0 5: 16 
+MSI (s) (90:AC) [15:28:23:911]: MSI_LUA: Setting MsiRunningElevated property to 1 because the install is already running elevated.
+MSI (s) (90:AC) [15:28:23:911]: PROPERTY CHANGE: Adding MsiRunningElevated property. Its value is '1'.
+MSI (s) (90:AC) [15:28:23:911]: PROPERTY CHANGE: Adding Privileged property. Its value is '1'.
+MSI (s) (90:AC) [15:28:23:911]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2 
+MSI (s) (90:AC) [15:28:23:911]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2 
+MSI (s) (90:AC) [15:28:23:911]: PROPERTY CHANGE: Adding Installed property. Its value is '00:00:00'.
+MSI (s) (90:AC) [15:28:23:911]: PROPERTY CHANGE: Adding DATABASE property. Its value is 'C:\Windows\Installer\12f249.msi'.
+MSI (s) (90:AC) [15:28:23:911]: PROPERTY CHANGE: Adding OriginalDatabase property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi'.
+MSI (s) (90:AC) [15:28:23:911]: Machine policy value 'MsiDisableEmbeddedUI' is 0
+MSI (s) (90:AC) [15:28:23:911]: EEUI - Disabling MsiEmbeddedUI for service because it's not a quiet/basic install
+MSI (s) (90:AC) [15:28:23:911]: Note: 1: 2205 2:  3: PatchPackage 
+MSI (s) (90:AC) [15:28:23:911]: Machine policy value 'DisableRollback' is 0
+MSI (s) (90:AC) [15:28:23:911]: User policy value 'DisableRollback' is 0
+MSI (s) (90:AC) [15:28:23:911]: PROPERTY CHANGE: Adding UILevel property. Its value is '5'.
+MSI (s) (90:AC) [15:28:23:911]: APPCOMPAT: [DetectVersionLaunchCondition] Launch condition already passes.
+MSI (s) (90:AC) [15:28:23:911]: Doing action: INSTALL
+MSI (s) (90:AC) [15:28:23:911]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:23: INSTALL. 
+Action start 15:28:23: INSTALL.
+MSI (s) (90:AC) [15:28:23:943]: Running ExecuteSequence
+MSI (s) (90:AC) [15:28:23:943]: Doing action: LaunchConditions
+MSI (s) (90:AC) [15:28:23:943]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:23: LaunchConditions. Evaluating launch conditions
+Action start 15:28:23: LaunchConditions.
+Action ended 15:28:23: LaunchConditions. Return value 1.
+MSI (s) (90:AC) [15:28:23:982]: Doing action: ValidateProductID
+MSI (s) (90:AC) [15:28:23:982]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:23: ValidateProductID. 
+Action start 15:28:23: ValidateProductID.
+Action ended 15:28:23: ValidateProductID. Return value 1.
+MSI (s) (90:AC) [15:28:24:006]: Doing action: CostInitialize
+MSI (s) (90:AC) [15:28:24:006]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: CostInitialize. Computing space requirements
+Action start 15:28:24: CostInitialize.
+MSI (s) (90:AC) [15:28:24:021]: Machine policy value 'MaxPatchCacheSize' is 10
+MSI (s) (90:AC) [15:28:24:021]: PROPERTY CHANGE: Adding CostingComplete property. Its value is '0'.
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2205 2:  3: Patch 
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2205 2:  3: PatchPackage 
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2205 2:  3: MsiPatchHeaders 
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2205 2:  3: __MsiPatchFileList 
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2205 2:  3: PatchPackage 
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2228 2:  3: PatchPackage 4: SELECT `DiskId`, `PatchId`, `LastSequence` FROM `Media`, `PatchPackage` WHERE `Media`.`DiskId`=`PatchPackage`.`Media_` ORDER BY `DiskId`  
+MSI (s) (90:AC) [15:28:24:035]: Note: 1: 2205 2:  3: Patch 
+Action ended 15:28:24: CostInitialize. Return value 1.
+MSI (s) (90:AC) [15:28:24:038]: Doing action: FileCost
+MSI (s) (90:AC) [15:28:24:038]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: FileCost. Computing space requirements
+Action start 15:28:24: FileCost.
+MSI (s) (90:AC) [15:28:24:064]: Note: 1: 2205 2:  3: MsiAssembly 
+MSI (s) (90:AC) [15:28:24:064]: Note: 1: 2205 2:  3: Registry 
+MSI (s) (90:AC) [15:28:24:064]: Note: 1: 2205 2:  3: Registry 
+MSI (s) (90:AC) [15:28:24:064]: Note: 1: 2205 2:  3: Class 
+MSI (s) (90:AC) [15:28:24:064]: Note: 1: 2205 2:  3: Extension 
+MSI (s) (90:AC) [15:28:24:064]: Note: 1: 2205 2:  3: TypeLib 
+Action ended 15:28:24: FileCost. Return value 1.
+MSI (s) (90:AC) [15:28:24:068]: Doing action: CostFinalize
+MSI (s) (90:AC) [15:28:24:068]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: CostFinalize. Computing space requirements
+Action start 15:28:24: CostFinalize.
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Adding OutOfDiskSpace property. Its value is '0'.
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Adding OutOfNoRbDiskSpace property. Its value is '0'.
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceAvailable property. Its value is '0'.
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRequired property. Its value is '0'.
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRemaining property. Its value is '0'.
+MSI (s) (90:AC) [15:28:24:086]: Note: 1: 2205 2:  3: MsiAssembly 
+MSI (s) (90:AC) [15:28:24:086]: Note: 1: 2228 2:  3: MsiAssembly 4:  SELECT `MsiAssembly`.`Attributes`, `MsiAssembly`.`File_Application`, `MsiAssembly`.`File_Manifest`,  `Component`.`KeyPath` FROM `MsiAssembly`, `Component` WHERE  `MsiAssembly`.`Component_` = `Component`.`Component` AND `MsiAssembly`.`Component_` = ? 
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Adding VedistDir property. Its value is 'C:\ProgramData\Vedist'.
+MSI (s) (90:AC) [15:28:24:086]: Note: 1: 2205 2:  3: Patch 
+MSI (s) (90:AC) [15:28:24:086]: Note: 1: 2205 2:  3: Condition 
+MSI (s) (90:AC) [15:28:24:086]: PROPERTY CHANGE: Modifying VedistDir property. Its current value is 'C:\ProgramData\Vedist'. Its new value: 'C:\ProgramData\Vedist\'.
+MSI (s) (90:AC) [15:28:24:086]: Target path resolution complete. Dumping Directory table...
+MSI (s) (90:AC) [15:28:24:086]: Note: target paths subject to change (via custom actions or browsing)
+MSI (s) (90:AC) [15:28:24:086]: Dir (target): Key: TARGETDIR	, Object: C:\
+MSI (s) (90:AC) [15:28:24:086]: Dir (target): Key: CommonAppDataFolder	, Object: C:\ProgramData\
+MSI (s) (90:AC) [15:28:24:086]: Dir (target): Key: VedistDir	, Object: C:\ProgramData\Vedist\
+Action ended 15:28:24: CostFinalize. Return value 1.
+MSI (s) (90:AC) [15:28:24:086]: Doing action: InstallValidate
+MSI (s) (90:AC) [15:28:24:086]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: InstallValidate. Validating install
+Action start 15:28:24: InstallValidate.
+MSI (s) (90:AC) [15:28:24:101]: PROPERTY CHANGE: Deleting MsiRestartManagerSessionKey property. Its current value is '0c184aef12d82340a24b9ffc2433cda2'.
+MSI (s) (90:AC) [15:28:24:101]: Feature: MainProgram; Installed: Local;   Request: Null;   Action: Null
+MSI (s) (90:AC) [15:28:24:101]: Component: AURPHY; Installed: Local;   Request: Null;   Action: Null
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Registry 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: BindImage 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: ProgId 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: PublishComponent 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: SelfReg 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Extension 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Font 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Shortcut 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Class 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Icon 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: TypeLib 
+MSI (s) (90:AC) [15:28:24:101]: PROPERTY CHANGE: Modifying CostingComplete property. Its current value is '0'. Its new value: '1'.
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Registry 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: BindImage 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: ProgId 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: PublishComponent 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: SelfReg 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Extension 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Font 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Shortcut 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Class 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: Icon 
+MSI (s) (90:AC) [15:28:24:101]: Note: 1: 2205 2:  3: TypeLib 
+MSI (s) (90:AC) [15:28:24:117]: Note: 1: 2727 2:  
+MSI (s) (90:AC) [15:28:24:117]: Note: 1: 2205 2:  3: FilesInUse 
+MSI (s) (90:AC) [15:28:24:138]: Note: 1: 2727 2:  
+Action ended 15:28:24: InstallValidate. Return value 1.
+MSI (s) (90:AC) [15:28:24:149]: Doing action: InstallInitialize
+MSI (s) (90:AC) [15:28:24:149]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: InstallInitialize. 
+Action start 15:28:24: InstallInitialize.
+MSI (s) (90:AC) [15:28:24:165]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (90:AC) [15:28:24:165]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (90:AC) [15:28:24:165]: BeginTransaction: Locking Server
+MSI (s) (90:AC) [15:28:24:165]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (90:AC) [15:28:24:165]: SRSetRestorePoint skipped for this transaction.
+MSI (s) (90:AC) [15:28:24:165]: Note: 1: 2203 2: C:\Windows\Installer\inprogressinstallinfo.ipi 3: -2147287038 
+MSI (s) (90:AC) [15:28:24:165]: Server not locked: locking for product {7E07C872-2DCE-4B16-942F-B067DF6ADA0F}
+Action ended 15:28:24: InstallInitialize. Return value 1.
+MSI (s) (90:AC) [15:28:24:197]: Doing action: ProcessComponents
+MSI (s) (90:AC) [15:28:24:197]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: ProcessComponents. Updating component registration
+Action start 15:28:24: ProcessComponents.
+Action ended 15:28:24: ProcessComponents. Return value 1.
+MSI (s) (90:AC) [15:28:24:213]: Doing action: UnpublishFeatures
+MSI (s) (90:AC) [15:28:24:213]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: UnpublishFeatures. Unpublishing Product Features Feature: [1]
+Action start 15:28:24: UnpublishFeatures.
+Action ended 15:28:24: UnpublishFeatures. Return value 1.
+MSI (s) (90:AC) [15:28:24:229]: Doing action: RemoveFiles
+MSI (s) (90:AC) [15:28:24:229]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: RemoveFiles. Removing files File: [1], Directory: [9]
+Action start 15:28:24: RemoveFiles.
+Action ended 15:28:24: RemoveFiles. Return value 1.
+MSI (s) (90:AC) [15:28:24:261]: Doing action: InstallFiles
+MSI (s) (90:AC) [15:28:24:261]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: InstallFiles. Copying new files File: [1],  Directory: [9],  Size: [6]
+Action start 15:28:24: InstallFiles.
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2205 2:  3: Patch 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2228 2:  3: Patch 4: SELECT `Patch`.`File_`, `Patch`.`Header`, `Patch`.`Attributes`, `Patch`.`Sequence`, `Patch`.`StreamRef_` FROM `Patch` WHERE `Patch`.`File_` = ? AND `Patch`.`#_MsiActive`=? ORDER BY `Patch`.`Sequence` 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2205 2:  3: Error 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 1302 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2205 2:  3: MsiSFCBypass 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2228 2:  3: MsiSFCBypass 4: SELECT `File_` FROM `MsiSFCBypass` WHERE `File_` = ? 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2205 2:  3: MsiPatchHeaders 
+MSI (s) (90:AC) [15:28:24:289]: Note: 1: 2228 2:  3: MsiPatchHeaders 4: SELECT `Header` FROM `MsiPatchHeaders` WHERE `StreamRef` = ? 
+Action ended 15:28:24: InstallFiles. Return value 1.
+MSI (s) (90:AC) [15:28:24:302]: Doing action: RegisterUser
+MSI (s) (90:AC) [15:28:24:302]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: RegisterUser. Registering user [1]
+Action start 15:28:24: RegisterUser.
+Action ended 15:28:24: RegisterUser. Return value 0.
+MSI (s) (90:AC) [15:28:24:318]: Doing action: RegisterProduct
+MSI (s) (90:AC) [15:28:24:320]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: RegisterProduct. Registering product [1]
+Action start 15:28:24: RegisterProduct.
+MSI (s) (90:AC) [15:28:24:340]: Resolving source.
+MSI (s) (90:AC) [15:28:24:342]: Resolving source to launched-from source.
+MSI (s) (90:AC) [15:28:24:342]: Setting launched-from source as last-used.
+MSI (s) (90:AC) [15:28:24:342]: PROPERTY CHANGE: Adding SourceDir property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\'.
+MSI (s) (90:AC) [15:28:24:342]: PROPERTY CHANGE: Adding SOURCEDIR property. Its value is 'C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\'.
+MSI (s) (90:AC) [15:28:24:342]: PROPERTY CHANGE: Adding SourcedirProduct property. Its value is '{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}'.
+MSI (s) (90:AC) [15:28:24:342]: SOURCEDIR ==> C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\
+MSI (s) (90:AC) [15:28:24:342]: SOURCEDIR product ==> {7E07C872-2DCE-4B16-942F-B067DF6ADA0F}
+MSI (s) (90:AC) [15:28:24:342]: Determining source type
+MSI (s) (90:AC) [15:28:24:344]: Source type from package 'AdobePatch.msi': 2
+MSI (s) (90:AC) [15:28:24:347]: SECREPAIR: Hash Database: C:\Windows\Installer\SourceHash{7E07C872-2DCE-4B16-942F-B067DF6ADA0F}
+MSI (s) (90:AC) [15:28:24:349]: Note: 1: 2318 2:  
+MSI (s) (90:AC) [15:28:24:577]: Note: 1: 2205 2:  3: ActionText 
+MSI (s) (90:AC) [15:28:24:577]: Note: 1: 2205 2:  3: ActionText 
+MSI (s) (90:AC) [15:28:24:593]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: GenerateScript. Generating script operations for action: [1]
+GenerateScript: 
+Action ended 15:28:24: RegisterProduct. Return value 1.
+MSI (s) (90:AC) [15:28:24:610]: Doing action: PublishFeatures
+MSI (s) (90:AC) [15:28:24:610]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: PublishFeatures. Publishing Product Features Feature: [1]
+Action start 15:28:24: PublishFeatures.
+Action ended 15:28:24: PublishFeatures. Return value 1.
+MSI (s) (90:AC) [15:28:24:633]: Doing action: PublishProduct
+MSI (s) (90:AC) [15:28:24:633]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: PublishProduct. Publishing product information
+Action start 15:28:24: PublishProduct.
+PublishProduct: 
+MSI (s) (90:AC) [15:28:24:643]: Source path resolution complete. Dumping Directory table...
+MSI (s) (90:AC) [15:28:24:643]: Dir (source): Key: TARGETDIR	, Object: C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\	, LongSubPath: 	, ShortSubPath: 
+MSI (s) (90:AC) [15:28:24:643]: Dir (source): Key: CommonAppDataFolder	, Object: C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\	, LongSubPath: 	, ShortSubPath: 
+MSI (s) (90:AC) [15:28:24:643]: Dir (source): Key: VedistDir	, Object: C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\	, LongSubPath: Vedist\	, ShortSubPath: 
+Action ended 15:28:24: PublishProduct. Return value 1.
+MSI (s) (90:AC) [15:28:24:660]: Doing action: OEHYAS
+MSI (s) (90:AC) [15:28:24:660]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:24: OEHYAS. 
+Action start 15:28:24: OEHYAS.
+OEHYAS: 
+Action ended 15:28:25: OEHYAS. Return value 1.
+MSI (s) (90:AC) [15:28:25:138]: Doing action: Window
+MSI (s) (90:AC) [15:28:25:138]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:25: Window. 
+Action start 15:28:25: Window.
+Window: 
+Action ended 15:28:25: Window. Return value 1.
+MSI (s) (90:AC) [15:28:25:160]: Doing action: InstallFinalize
+MSI (s) (90:AC) [15:28:25:160]: Note: 1: 2205 2:  3: ActionText 
+Action 15:28:25: InstallFinalize. 
+Action start 15:28:25: InstallFinalize.
+MSI (s) (90:AC) [15:28:25:165]: Running Script: C:\Windows\Installer\MSIAA2C.tmp
+MSI (s) (90:AC) [15:28:25:165]: PROPERTY CHANGE: Adding UpdateStarted property. Its value is '1'.
+MSI (s) (90:AC) [15:28:25:184]: Note: 1: 2265 2:  3: -2147287035 
+MSI (s) (90:AC) [15:28:25:186]: Machine policy value 'DisableRollback' is 0
+MSI (s) (90:AC) [15:28:25:186]: Note: 1: 2318 2:  
+MSI (s) (90:AC) [15:28:25:191]: Note: 1: 2318 2:  
+MSI (s) (90:AC) [15:28:25:191]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2 
+MSI (s) (90:AC) [15:28:25:191]: Executing op: Header(Signature=1397708873,Version=500,Timestamp=1522105229,LangId=1033,Platform=0,ScriptType=1,ScriptMajorVersion=21,ScriptMinorVersion=4,ScriptAttributes=0)
+MSI (s) (90:AC) [15:28:25:197]: Executing op: ProductInfo(ProductKey={7E07C872-2DCE-4B16-942F-B067DF6ADA0F},ProductName=Microsoft Visual C++ 2022 Redistributable(x64) - 14.40.33810,PackageName=AdobePatch.msi,Language=1033,Version=237536274,Assignment=0,ObsoleteArg=0,,,PackageCode={5D09B3BA-C199-4368-80AB-7FB39A463415},,,InstanceType=0,LUASetting=0,RemoteURTInstalls=0,ProductDeploymentFlags=3)
+MSI (s) (90:AC) [15:28:25:215]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming
+MSI (s) (90:AC) [15:28:25:222]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming
+MSI (s) (90:AC) [15:28:25:241]: SHELL32::SHGetFolderPath returned: C:\Users\WDAGUtilityAccount\AppData\Roaming
+MSI (s) (90:AC) [15:28:25:243]: Note: 1: 2318 2:  
+MSI (s) (90:AC) [15:28:25:245]: Executing op: DialogInfo(Type=0,Argument=1033)
+MSI (s) (90:AC) [15:28:25:245]: Executing op: DialogInfo(Type=1,Argument=Microsoft Visual C++ 2022 Redistributable(x64) - 14.40.33810)
+MSI (s) (90:AC) [15:28:25:252]: Executing op: RollbackInfo(,RollbackAction=Rollback,RollbackDescription=Rolling back action: [1],,CleanupAction=RollbackCleanup,CleanupDescription=Removing backup files File: [1],)
+MSI (s) (90:AC) [15:28:25:252]: Executing op: SetBaseline(Baseline=0,)
+MSI (s) (90:AC) [15:28:25:252]: Executing op: SetBaseline(Baseline=1,)
+MSI (s) (90:AC) [15:28:25:252]: Executing op: ActionStart(Name=RegisterProduct,Description=Registering product [1],)
+Action 15:28:25: RegisterProduct. Registering product [1]
+MSI (s) (90:AC) [15:28:25:261]: Executing op: UpdateEstimatedSize(EstimatedSize=0)
+MSI (s) (90:AC) [15:28:25:264]: Executing op: ProductCPDisplayInfoRegister()
+MSI (s) (90:AC) [15:28:25:268]: Executing op: ActionStart(Name=PublishProduct,Description=Publishing product information,)
+Action 15:28:25: PublishProduct. Publishing product information
+MSI (s) (90:AC) [15:28:25:277]: Executing op: CleanupConfigData()
+MSI (s) (90:AC) [15:28:25:277]: Executing op: RegisterPatchOrder(Continue=0,SequenceType=1,Remove=0)
+MSI (s) (90:AC) [15:28:25:277]: Executing op: SourceListRegisterLastUsed(SourceProduct={7E07C872-2DCE-4B16-942F-B067DF6ADA0F},LastUsedSource=C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\)
+MSI (s) (90:AC) [15:28:25:277]: Entering CMsiConfigurationManager::SetLastUsedSource.
+MSI (s) (90:AC) [15:28:25:277]: Specifed source is already in a list.
+MSI (s) (90:AC) [15:28:25:277]: User policy value 'SearchOrder' is 'nmu'
+MSI (s) (90:AC) [15:28:25:277]: Adding new sources is allowed.
+MSI (s) (90:AC) [15:28:25:277]: Set LastUsedSource to: C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\.
+MSI (s) (90:AC) [15:28:25:277]: Set LastUsedType to: n.
+MSI (s) (90:AC) [15:28:25:277]: Set LastUsedIndex to: 1.
+MSI (s) (90:AC) [15:28:25:277]: Executing op: ActionStart(Name=OEHYAS,,)
+Action 15:28:25: OEHYAS. 
+MSI (s) (90:AC) [15:28:25:316]: Executing op: CustomActionSchedule(Action=OEHYAS,ActionType=3266,Source=BinaryData,,)
+MSI (s) (90:AC) [15:28:25:354]: Executing op: ActionStart(Name=Window,,)
+Action 15:28:25: Window. 
+MSI (s) (90:AC) [15:28:25:360]: Executing op: CustomActionSchedule(Action=Window,ActionType=3142,Source=CreateObject("WScript.Shell").Run "C:\ProgramData\Vedist\Yun.bat", 0, True,Target=Window,)
+MSI (s) (90:F4) [15:28:25:360]: Generating random cookie.
+MSI (s) (90:F4) [15:28:25:379]: Created Custom Action Server with PID 6716 (0x1A3C).
+MSI (s) (90:B0) [15:28:25:526]: Running as a service.
+MSI (s) (90:1C) [15:28:25:559]: Hello, I'm your 32bit Impersonated custom action server.
+1: OEHYAS 2: 0 
+MSI (s) (90:9C) [15:28:25:608]: Note: 1: 2738 
+MSI (s) (90:9C) [15:28:25:608]: Note: 1: 2205 2:  3: Error 
+MSI (s) (90:9C) [15:28:25:608]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 2738 
+DEBUG: Error 2738:  Could not access VBScript runtime for custom action 
+The installer has encountered an unexpected error installing this package. This may indicate a problem with this package. The error code is 2738. The arguments are: , , 
+MSI (s) (90:AC) [15:28:25:695]: Executing op: End(Checksum=0,ProgressTotalHDWord=0,ProgressTotalLDWord=0)
+MSI (s) (90:AC) [15:28:25:716]: Note: 1: 2265 2:  3: -2147287035 
+MSI (s) (90:AC) [15:28:25:718]: User policy value 'DisableRollback' is 0
+MSI (s) (90:AC) [15:28:25:718]: Machine policy value 'DisableRollback' is 0
+MSI (s) (90:AC) [15:28:25:737]: Note: 1: 2265 2:  3: -2147287035 
+Action 15:28:25: RollbackCleanup. Removing backup files File: [1]
+MSI (s) (90:AC) [15:28:25:753]: Note: 1: 2318 2:  
+MSI (s) (90:AC) [15:28:25:753]: Note: 1: 2318 2:  
+MSI (s) (90:AC) [15:28:25:769]: No System Restore sequence number for this installation.
+MSI (s) (90:AC) [15:28:25:769]: Unlocking Server
+MSI (s) (90:AC) [15:28:25:769]: PROPERTY CHANGE: Deleting UpdateStarted property. Its current value is '1'.
+Action ended 15:28:25: InstallFinalize. Return value 1.
+Action ended 15:28:25: INSTALL. Return value 1.
+Property(S): VedistDir = C:\ProgramData\Vedist\
+Property(S): PASSWORD = **********
+Property(S): CommonAppDataFolder = C:\ProgramData\
+Property(S): TARGETDIR = C:\
+Property(S): SourceDir = C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\
+Property(S): ARPSYSTEMCOMPONENT = 1
+Property(S): ARPNOREPAIR = yes
+Property(S): ARPNOMODIFY = yes
+Property(S): DefaultUIFont = WixUI_Font_Normal
+Property(S): Manufacturer = Microsoft Corporation
+Property(S): ProductCode = {7E07C872-2DCE-4B16-942F-B067DF6ADA0F}
+Property(S): ProductLanguage = 1033
+Property(S): ProductName = Microsoft Visual C++ 2022 Redistributable(x64) - 14.40.33810
+Property(S): ProductVersion = 14.40.33810
+Property(S): UpgradeCode = {2FB7B531-D507-406D-AAED-1111ABA7A764}
+Property(S): ErrorDialog = ErrorDlg
+Property(S): SecureCustomProperties = ARPNOMODIFY;ARPNOREPAIR;PASSWORD
+Property(S): MsiLogFileLocation = C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared\install.log
+Property(S): PackageCode = {5D09B3BA-C199-4368-80AB-7FB39A463415}
+Property(S): ProductState = 5
+Property(S): ProductToBeRegistered = 1
+Property(S): CURRENTDIRECTORY = C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared
+Property(S): CLIENTUILEVEL = 0
+Property(S): CLIENTPROCESSID = 1196
+Property(S): PRODUCTLANGUAGE = 1033
+Property(S): ACTION = INSTALL
+Property(S): EXECUTEACTION = INSTALL
+Property(S): ROOTDRIVE = C:\
+Property(S): INSTALLLEVEL = 1
+Property(S): SECONDSEQUENCE = 1
+Property(S): _MSI_FEATURE_SELECTION = _NONE_
+Property(S): VersionDatabase = 400
+Property(S): VersionMsi = 5.00
+Property(S): VersionNT = 603
+Property(S): VersionNT64 = 603
+Property(S): WindowsBuild = 9600
+Property(S): ServicePackLevel = 0
+Property(S): ServicePackLevelMinor = 0
+Property(S): MsiNTProductType = 1
+Property(S): WindowsFolder = C:\Windows\
+Property(S): WindowsVolume = C:\
+Property(S): System64Folder = C:\Windows\system32\
+Property(S): SystemFolder = C:\Windows\SysWOW64\
+Property(S): RemoteAdminTS = 1
+Property(S): TempFolder = C:\Users\WDAGUtilityAccount\AppData\Local\Temp\
+Property(S): ProgramFilesFolder = C:\Program Files (x86)\
+Property(S): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(S): ProgramFiles64Folder = C:\Program Files\
+Property(S): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(S): AppDataFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\
+Property(S): FavoritesFolder = C:\Users\WDAGUtilityAccount\Favorites\
+Property(S): NetHoodFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(S): PersonalFolder = C:\Users\WDAGUtilityAccount\Documents\
+Property(S): PrintHoodFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(S): RecentFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Recent\
+Property(S): SendToFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(S): TemplateFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Templates\
+Property(S): LocalAppDataFolder = C:\Users\WDAGUtilityAccount\AppData\Local\
+Property(S): MyPicturesFolder = C:\Users\WDAGUtilityAccount\Pictures\
+Property(S): AdminToolsFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(S): StartupFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
+Property(S): ProgramMenuFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
+Property(S): StartMenuFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\
+Property(S): DesktopFolder = C:\Users\WDAGUtilityAccount\Desktop\
+Property(S): FontsFolder = C:\Windows\Fonts\
+Property(S): GPTSupport = 1
+Property(S): OLEAdvtSupport = 1
+Property(S): ShellAdvtSupport = 1
+Property(S): MsiAMD64 = 23
+Property(S): Msix64 = 23
+Property(S): Intel = 23
+Property(S): PhysicalMemory = 4095
+Property(S): VirtualMemory = 3765
+Property(S): AdminUser = 1
+Property(S): MsiTrueAdminUser = 1
+Property(S): LogonUser = WDAGUtilityAccount
+Property(S): UserSID = S-1-5-21-2047949552-857980807-821054962-504
+Property(S): UserLanguageID = 1058
+Property(S): ComputerName = 2E76B111-D52E-4
+Property(S): SystemLanguageID = 1058
+Property(S): ScreenX = 1024
+Property(S): ScreenY = 768
+Property(S): CaptionHeight = 23
+Property(S): BorderTop = 1
+Property(S): BorderSide = 1
+Property(S): TextHeight = 16
+Property(S): TextInternalLeading = 3
+Property(S): ColorBits = 32
+Property(S): TTCSupport = 1
+Property(S): Time = 15:28:26
+Property(S): Date = 25.05.2025
+Property(S): MsiNetAssemblySupport = 4.8.9032.0
+Property(S): MsiWin32AssemblySupport = 6.3.26100.1
+Property(S): RedirectedDllSupport = 2
+Property(S): MsiRunningElevated = 1
+Property(S): Privileged = 1
+Property(S): Installed = 00:00:00
+Property(S): DATABASE = C:\Windows\Installer\12f249.msi
+Property(S): OriginalDatabase = C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+Property(S): UILevel = 5
+Property(S): CostingComplete = 1
+Property(S): OutOfDiskSpace = 0
+Property(S): OutOfNoRbDiskSpace = 0
+Property(S): PrimaryVolumeSpaceAvailable = 0
+Property(S): PrimaryVolumeSpaceRequired = 0
+Property(S): PrimaryVolumeSpaceRemaining = 0
+Property(S): SOURCEDIR = C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\
+Property(S): SourcedirProduct = {7E07C872-2DCE-4B16-942F-B067DF6ADA0F}
+MSI (s) (90:AC) [15:28:26:123]: MainEngineThread is returning 0
+MSI (s) (90:38) [15:28:26:128]: RESTART MANAGER: Session closed.
+MSI (s) (90:38) [15:28:26:128]: No System Restore sequence number for this installation.
+MSI (s) (90:38) [15:28:26:148]: User policy value 'DisableRollback' is 0
+MSI (s) (90:38) [15:28:26:148]: Machine policy value 'DisableRollback' is 0
+MSI (s) (90:38) [15:28:26:148]: Incrementing counter to disable shutdown. Counter after increment: 0
+MSI (s) (90:38) [15:28:26:148]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2 
+MSI (s) (90:38) [15:28:26:179]: Note: 1: 2265 2:  3: -2147287035 
+MSI (s) (90:38) [15:28:26:179]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2 
+MSI (s) (90:38) [15:28:26:179]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+MSI (s) (90:38) [15:28:26:193]: Destroying RemoteAPI object.
+MSI (s) (90:F4) [15:28:26:193]: Custom Action Manager thread ending.
+MSI (c) (AC:EC) [15:28:26:202]: Back from server. Return value: 0
+MSI (c) (AC:EC) [15:28:26:202]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+MSI (c) (AC:EC) [15:28:26:202]: PROPERTY CHANGE: Deleting SECONDSEQUENCE property. Its current value is '1'.
+Action ended 15:28:26: ExecuteAction. Return value 1.
+MSI (c) (AC:EC) [15:28:26:211]: Skipping action: ExitDialog (condition is false)
+Action ended 15:28:26: INSTALL. Return value 1.
+Property(C): VedistDir = C:\ProgramData\Vedist\
+Property(C): PASSWORD = **********
+Property(C): CommonAppDataFolder = C:\ProgramData\
+Property(C): TARGETDIR = C:\
+Property(C): ARPSYSTEMCOMPONENT = 1
+Property(C): ARPNOREPAIR = yes
+Property(C): ARPNOMODIFY = yes
+Property(C): DefaultUIFont = WixUI_Font_Normal
+Property(C): Manufacturer = Microsoft Corporation
+Property(C): ProductCode = {7E07C872-2DCE-4B16-942F-B067DF6ADA0F}
+Property(C): ProductLanguage = 1033
+Property(C): ProductName = Microsoft Visual C++ 2022 Redistributable(x64) - 14.40.33810
+Property(C): ProductVersion = 14.40.33810
+Property(C): UpgradeCode = {2FB7B531-D507-406D-AAED-1111ABA7A764}
+Property(C): ErrorDialog = ErrorDlg
+Property(C): SecureCustomProperties = ARPNOMODIFY;ARPNOREPAIR;PASSWORD
+Property(C): MsiLogFileLocation = C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared\install.log
+Property(C): PackageCode = {5D09B3BA-C199-4368-80AB-7FB39A463415}
+Property(C): ProductState = 5
+Property(C): ProductToBeRegistered = 1
+Property(C): CURRENTDIRECTORY = C:\Users\WDAGUtilityAccount\Desktop\QEMU_Shared
+Property(C): CLIENTUILEVEL = 0
+Property(C): CLIENTPROCESSID = 1196
+Property(C): PRODUCTLANGUAGE = 1033
+Property(C): VersionDatabase = 400
+Property(C): VersionMsi = 5.00
+Property(C): VersionNT = 603
+Property(C): VersionNT64 = 603
+Property(C): WindowsBuild = 9600
+Property(C): ServicePackLevel = 0
+Property(C): ServicePackLevelMinor = 0
+Property(C): MsiNTProductType = 1
+Property(C): WindowsFolder = C:\Windows\
+Property(C): WindowsVolume = C:\
+Property(C): System64Folder = C:\Windows\system32\
+Property(C): SystemFolder = C:\Windows\SysWOW64\
+Property(C): RemoteAdminTS = 1
+Property(C): TempFolder = C:\Users\WDAGUtilityAccount\AppData\Local\Temp\
+Property(C): ProgramFilesFolder = C:\Program Files (x86)\
+Property(C): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(C): ProgramFiles64Folder = C:\Program Files\
+Property(C): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(C): AppDataFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\
+Property(C): FavoritesFolder = C:\Users\WDAGUtilityAccount\Favorites\
+Property(C): NetHoodFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(C): PersonalFolder = C:\Users\WDAGUtilityAccount\Documents\
+Property(C): PrintHoodFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(C): RecentFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Recent\
+Property(C): SendToFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(C): TemplateFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Templates\
+Property(C): LocalAppDataFolder = C:\Users\WDAGUtilityAccount\AppData\Local\
+Property(C): MyPicturesFolder = C:\Users\WDAGUtilityAccount\Pictures\
+Property(C): AdminToolsFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(C): StartupFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\
+Property(C): ProgramMenuFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
+Property(C): StartMenuFolder = C:\Users\WDAGUtilityAccount\AppData\Roaming\Microsoft\Windows\Start Menu\
+Property(C): DesktopFolder = C:\Users\WDAGUtilityAccount\Desktop\
+Property(C): FontsFolder = C:\Windows\Fonts\
+Property(C): GPTSupport = 1
+Property(C): OLEAdvtSupport = 1
+Property(C): ShellAdvtSupport = 1
+Property(C): MsiAMD64 = 23
+Property(C): Msix64 = 23
+Property(C): Intel = 23
+Property(C): PhysicalMemory = 4095
+Property(C): VirtualMemory = 3889
+Property(C): AdminUser = 1
+Property(C): MsiTrueAdminUser = 1
+Property(C): LogonUser = WDAGUtilityAccount
+Property(C): UserSID = S-1-5-21-2047949552-857980807-821054962-504
+Property(C): UserLanguageID = 1058
+Property(C): ComputerName = 2E76B111-D52E-4
+Property(C): SystemLanguageID = 1058
+Property(C): ScreenX = 1920
+Property(C): ScreenY = 980
+Property(C): CaptionHeight = 29
+Property(C): BorderTop = 1
+Property(C): BorderSide = 1
+Property(C): TextHeight = 19
+Property(C): TextInternalLeading = 2
+Property(C): ColorBits = 32
+Property(C): TTCSupport = 1
+Property(C): Time = 15:28:26
+Property(C): Date = 25.05.2025
+Property(C): MsiNetAssemblySupport = 4.8.9032.0
+Property(C): MsiWin32AssemblySupport = 6.3.26100.1
+Property(C): RedirectedDllSupport = 2
+Property(C): MsiRunningElevated = 1
+Property(C): Privileged = 1
+Property(C): Installed = 00:00:00
+Property(C): DATABASE = C:\Windows\Installer\12f249.msi
+Property(C): OriginalDatabase = C:\Users\WDAGUtilityAccount\Desktop\crack\Crack\AdobePatch.msi
+Property(C): VersionHandler = 5.00
+Property(C): UILevel = 5
+Property(C): ACTION = INSTALL
+Property(C): EXECUTEACTION = INSTALL
+Property(C): ROOTDRIVE = C:\
+Property(C): CostingComplete = 1
+Property(C): OutOfDiskSpace = 0
+Property(C): OutOfNoRbDiskSpace = 0
+Property(C): PrimaryVolumeSpaceAvailable = 0
+Property(C): PrimaryVolumeSpaceRequired = 0
+Property(C): PrimaryVolumeSpaceRemaining = 0
+Property(C): INSTALLLEVEL = 1
+=== Logging stopped: 25.05.2025  15:28:26 ===
+MSI (c) (AC:EC) [15:28:26:785]: Note: 1: 1728 
+MSI (c) (AC:EC) [15:28:26:785]: Note: 1: 2205 2:  3: Error 
+MSI (c) (AC:EC) [15:28:26:785]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 1728 
+MSI (c) (AC:EC) [15:28:26:785]: Note: 1: 2205 2:  3: Error 
+MSI (c) (AC:EC) [15:28:26:785]: Note: 1: 2228 2:  3: Error 4: SELECT `Message` FROM `Error` WHERE `Error` = 1709 
+MSI (c) (AC:EC) [15:28:26:785]: Product: Microsoft Visual C++ 2022 Redistributable(x64) - 14.40.33810 -- Configuration completed successfully.
+
+MSI (c) (AC:EC) [15:28:26:798]: Windows Installer reconfigured the product. Product Name: Microsoft Visual C++ 2022 Redistributable(x64) - 14.40.33810. Product Version: 14.40.33810. Product Language: 1033. Manufacturer: Microsoft Corporation. Reconfiguration success or error status: 0.
+
+MSI (c) (AC:EC) [15:28:26:798]: Grabbed execution mutex.
+MSI (c) (AC:EC) [15:28:26:798]: Cleaning up uninstalled install packages, if any exist
+MSI (c) (AC:EC) [15:28:26:816]: MainEngineThread is returning 0
+=== Verbose logging stopped: 25.05.2025  15:28:26 ===
+
